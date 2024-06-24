@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About this site
+
+```{.bash}
+quarto create project website educatorial
+cd educatorial
+git init
+```
