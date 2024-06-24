@@ -8,7 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - NeoMapas.qmd
+      - RLE-workshops.qmd
+      - biodiv-workshops.qmd
 format:
   html:
     theme: cosmo
