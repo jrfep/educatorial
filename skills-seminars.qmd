@@ -1,0 +1,26 @@
+---
+title: "CES Skills seminars"
+subtitle: "Skills seminars for HDR students"
+---
+
+Contributions to the Centre for Ecosystem Science Skills seminars (2023 and 2024).
+
+Presentations and Q+A sessions on reproducibility of research, sharing of research data, and best practices for coding in R.
+
+## Code for reproducible research
+
+March 2023 
+
+[Presentation slides](https://rpubs.com/jrfep/reproducible-code-presentation) / [Source code](https://github.com/UNSW-codeRs/reproducible-R-code-for-research)
+
+## Share your data and code
+ 
+April 2023
+
+[Presentation slides](https://rpubs.com/jrfep/CES-skills-data-and-code) / [Source code](https://github.com/UNSW-codeRs/how-to-share-data-and-code)
+
+## Showcase your research with dynamic documents
+
+September 2024
+
+[Presentation slides](https://jrfep.quarto.pub/showcase-your-research/#/title-slide)

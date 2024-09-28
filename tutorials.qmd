@@ -1,0 +1,33 @@
+---
+title: "Online resources"
+---
+
+
+## Presentation slides
+
+### Skills seminars at Centre for Ecosystem Science
+
+1. March 2023: [Code for reproducible research](https://rpubs.com/jrfep/reproducible-code-presentation)
+2. April 2023: [Share your data and code](https://rpubs.com/jrfep/CES-skills-data-and-code)
+3. September 2024: [Showcase your research with dynamic documents](https://jrfep.quarto.pub/showcase-your-research/#/title-slide)
+
+
+
+## Tutorials
+
+### Geospatial data tutorials with `learnr`
+
+1. Create a spatial object (using `sf`, `mapview`): [shinyapps 1](https://yessl3-unswcoders.shinyapps.io/tutorial-1-create-spatial-object/) / [shinyapps 2](https://ecosphere.shinyapps.io/tutorial-1-create-spatial-object/)
+2. Points, lines and polygons (using `sf`, `mapview`): [shinyapps 1](https://yessl3-unswcoders.shinyapps.io/tutorial-2-points-lines-polygons/) / [shinyapps 2]( https://ecosphere.shinyapps.io/tutorial-2-points-lines-polygons/) 
+3. Thematic mapping (using `sf`, `tmap`) : [posit cloud](https://posit.cloud/content/7255037) / [posit connect](https://posit-connect-unsw.intersect.org.au/content/fbb893a7-f657-435a-ab18-4116252cd14c)
+4. Geostatistic analysis (using `sf`, `sp`, `raster`, `gstat`) : [shinyapps 1](https://ecosphere.shinyapps.io/tutorial-4-geostatistic-example/)
+5. Accessing vector and raster data (using `sf`, `terra`, `leaflet`) : [rpubs](https://rpubs.com/jrfep/geospatial-tutorial-5) 
+
+## Other examples
+
+- gists: [gradual grids](https://gist.github.com/jrfep/19152d688f31f79b97f06d7b50340b7a)
+
+<!--//
+- examples for Y10WE: pigeons vs nobel prize winners...
+- Big watermelon experiment
+//-->

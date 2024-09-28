@@ -1,2 +1,33 @@
+---
+title: "BiodiVen: Biological diversity program"
+---
 
 Later on I contributed to the design and implementation of a scalable capacity building program of the IVIC Biological Diversity Unit in Venezuela. This program provided training to more than 200 students, professionals, technicians and governmental agency officials involved in the management of biological diversity. Between 2014 and 2017 I participated as course convener or lecturer in a series of inter-institutional courses to develop skills in georeferencing for biological sciences, niche models and species distributions analysis. This training program contributed in supporting conservation policies by helping establish a cohort of conservation professionals and feeding information into the *Venezuelan Information System on Biological Diversity* and the updated Red List of Venezuelan Fauna (<http://wikieva.org.ve/>). With the success of this program I was later invited to organise similar short courses dedicated to biostatistical analysis in the Universidad del Atlántico, Colombia in 2014; Universidad Espíritu Santo, Ecuador in 2018; and the Universidad Nacional de Asunción in Paraguay in 2019. 
+
+**Capacity-building program for species conservation**, Venezuela [2014-2017]{.cvdate}
+
+- Design and testing of a replicable, scalable capacity-building model
+- Supporting role in design, equal contribution in delivery and supervison 
+- Inter-institutional courses leveraged on the research facilities and infrastructure provided by the host institution 
+- provided training to more than 200 students, professionals, technicians and governmental agency officials involved in the management of biological diversity. 
+
+
+- Invited speaker at the “VII Jornadas Ambientales” 2018	
+
+- Invited workshop on “Introduction to R programming for life sciences”, Universidad Espíritu Santo, Guayaquil, Ecuador. 2018	
+
+-	Visiting instructor for Workshop “Introduction to multivariate analysis for the life sciences”. Universidad del Atlántico Colombia. 2014
+
+
+
+**Biostatistics course**, Universidad Nacional de Asunción, Paraguay [2019]{.cvdate}
+
+- Invited lecturer
+- Postgraduate program “Maestría en Ciencias Biológicas; Mención Biodiversidad y Sistemática” 
+- Led development and delivery
+
+Symposium **An Insight into the Orinoco Mining Arc**, Trinidad & Tobago [2018]{.cvdate}
+
+- *An Insight into the Orinoco Mining Arc: its implications for Venezuela and the eastern Caribbean*
+- Co-led organisation 
+- Inaugural Latin American and Caribbean Congress on Conservation Biology. 

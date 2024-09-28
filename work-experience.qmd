@@ -1,0 +1,11 @@
+---
+title: "Work experience"
+---
+
+**uDASH Year 10 Work Experience** [2022-2024]
+
+- Outreach activity of the UNSW Data Science Hub
+- Work experience program for Year 10 students
+- Led development and delivery in 2023
+- Design of the week activities combining lectures, invited speakers, guided hands-on coding work 
+- Introduction to R and posit cloud

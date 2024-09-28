@@ -2,18 +2,33 @@ project:
   type: website
 
 website:
-  title: "Educatorial"
+  title: "J.R. Ferrer-Paris"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
-      - NeoMapas.qmd
-      - RLE-workshops.qmd
-      - biodiv-workshops.qmd
+      - tutorials.qmd
+    left:
+      - text: "Educatorial"
+        href: index.qmd
+      - text: "Red Lis of Ecosystems"
+        menu:
+        - RLE-workshops.qmd   
+      - text: "Skills seminars"
+        href: skills-seminars.qmd
+      - text: "Work experience"
+        menu: 
+          - href: work-experience.qmd
+          - href: Y10WE-CES-2024.qmd
+          - href: Y10WE-uDASH-2022.qmd
+      - text: "Coding"
+        href: coding.qmd
+      - text: "Biodiversity"
+        menu:
+        - NeoMapas.qmd
+        - biodiv-workshops.qmd
 format:
   html:
-    theme: cosmo
+    theme: mint
     css: styles.css
     toc: true
 

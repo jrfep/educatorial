@@ -1,0 +1,30 @@
+---
+title: "Software and data workshops"
+---
+
+
+**Carpentries Instructor** [2022-2024]{.cvdate}
+
+- Certified Carpentries Instructor
+- Volunteer instructor for Data carpentry and Software carpentry workshops
+
+**UNSW codeRs** [2021-2024]{.cvdate}
+
+- R coding community run by students and staff
+- Founder and Steering Committee member
+- Drop-in help sessions for R coding and statistics
+- Virtual, in-person and hybrid workshops
+
+**Restech drop-in help sessions** [2021-2023]{.cvdate}
+
+- Mentoring of staff and students 
+- Coding help for R and Python users
+- Using High Performance Computers for Research
+- Accessing Research Technology Services on campus
+
+
+
+
+- Invited virtual workshop: [Geospatial data in R](https://rpubs.com/jrfep/geospatial-workshop-intro-12-2023) for the Macquarie University R Users Group. (December 2023)
+
+- Invited Fireside chat about UNSW CodeRs at the ARDC Digital Research Skills Summit 2023, Sydney. 2023	

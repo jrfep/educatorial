@@ -5,3 +5,40 @@ title: "Red List of Ecosystems workshops"
 Between 2017 and the present, in my role as member of IUCN Red List of Ecosystems Working Group I have contributed to deliver training workshops in four countries. I led one course in Venezuela (2018), co-led a training workshop in Paraguay (2017), and was instructor in workshops in Abu Dhabi and Guyana (2018), building capacity for future RLE assessment with the involvement of Government and Non-Government organisations. The Abu Dhabi environmental authority was inspired by this first combined workshop on Red List of Threatened Species and Ecosystems to adopt the IUCN RLE standard and prepare the first RLE assessment for the Arabian region, published in 2023.
 
 After moving to Australia, I also participated in the workshop to conduct an RLE assessment of the Australian Alps in December 2019 and coauthored the resulting workshop report. Due to the Covid pandemic, I was unable to continue contributing directly to these capacity building exercises in Latin America and other regions of the world. But, I participated remotely in a inception workshop for the global assessment of mangrove ecosystems. My experience and advice and the development of software tools was instrumental in the discussion about delimitation of assessment units and strategies for data collection and indicator selection. The project is ongoing, with assessment of three regions of the world completed so far.
+
+
+
+- Invited seminar: [Applications of the IUCN Red List of Ecosystems in research and conservation](https://jrfep.quarto.pub/iucn-rle-in-research-and-conservation) Open Seminar of the Mammal Research Institute, Polish Academy of Science,  Białowieża Poland (February 2024)
+
+- Invited seminar: [TIPOLOGÍA GLOBAL DE ECOSISTEMAS DE LA UICN: Un marco de clasificación integral para los ecosistemas de la tierra, integrando sus características funcionales y de composición.](https://rpubs.com/jrfep/GET-seminario-virtual) Virtual seminar of the IUCN Commission for Ecosystem Management (Latin America and Caribbean section). 2023	
+
+- Invited speaker at the virtual session: “The IUCN Red List of Ecosystems: opportunities and challenges to support the post 2020 framework and the Sustainable Development Goals in Latin America”. Science Summit of the 77 United Nations General Assembly. 2022	
+
+- Invited speaker at the virtual session: “Science-based targets for Ecosystems in the post-2020 framework for Biodiversity”. IUCN World Conservation Congress, Marseille, France. 2021	
+
+
+Workshop **Red List of Ecosystems in Africa**, Kigali, Rwanda [2022]{.cvdate}
+
+- Co-led organisation 
+- Topic: *Red List of Ecosystems in Africa, supporting policy, practice and planning*
+- Event at the IUCN Africa Protected Area Congress, APAC
+
+
+
+**Red List training workshop**, Abu Dhabi, United Arab Emirates [2018]{.cvdate}
+
+- Red List of Threatened Species and Red List of Ecosystem training workshop
+- Equal contribution to convening and delivering
+- First joint workshop on Red List methods for species and ecosystems
+
+**Red List of Ecosystem training workshop**, Georgetown, Guyana [2018]{.cvdate}
+
+- Invited instructor
+
+
+**Red List of Ecosystem training workshop** Asunción, Paraguay [2017]{.cvdate}
+
+Workshop *Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin America* and Symposium *Red Lists of Ecosystems in Latin America from National Efforts to a Regional Strategy*, Cartagena, Colombia [2017]{.cvdate}
+
+- Co-led organisation 
+- Part of the scientific program of the 28th International Congress for Conservation Biology 
